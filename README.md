@@ -15,10 +15,11 @@
 -->
 💬 Je m'appelle Cassandra et je suis étudiante en troisième année d'Informatique.
 
-Suis-moi sur [LinkedIn](https://www.linkedin.com/in/cassandrachaumulon/)
+Suis-moi sur [LinkedIn](https://www.linkedin.com/in/cassandrachaumulon/) !
 
 
 ### Hello and welcome to you 👋 !
 
 💬 My name is Cassandra and I am a third year Computer Science student.
-Follow me on [LinkedIn](https://www.linkedin.com/in/cassandrachaumulon/)
+
+Follow me on [LinkedIn](https://www.linkedin.com/in/cassandrachaumulon/) !
