@@ -1,9 +1,8 @@
-### Hi there 👋
+### Bonjour et bienvenue à toi 👋 !
 
 <!--
 **CassandraCH/CassandraCh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -14,3 +13,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+💬 Je m'appelle Cassandra et je suis étudiante en troisième année d'Informatique.
+
+Mon profil sur LinkedIn : [LinkedIn](https://www.linkedin.com/in/cassandrachaumulon/)
+
+
+### Hello and welcome to you 👋 !
+
+💬 My name is Cassandra and I am a third year Computer Science student.
+My profile on LinkedIn : : [LinkedIn](https://www.linkedin.com/in/cassandrachaumulon/)
