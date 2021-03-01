@@ -17,3 +17,5 @@
 
 Viens me suivre sur [LinkedIn](https://www.linkedin.com/in/cassandrachaumulon/) !
 
+Mon portfolio est disponible [ici](https://cassandrach.github.io/) (Il est en cours de construction)
+
