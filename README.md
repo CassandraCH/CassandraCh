@@ -1,5 +1,5 @@
 ### Bonjour et bienvenue à toi 👋 !
-
+---
 
 💬 Je m'appelle Cassandra et je suis étudiante en troisième année d'Informatique.
 
