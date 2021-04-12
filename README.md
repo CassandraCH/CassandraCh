@@ -7,5 +7,5 @@
 
 📫 Tu peux me suivre sur [LinkedIn](https://www.linkedin.com/in/cassandrachaumulon/) !
 
-💻 Mon portfolio est disponible [ici](https://cassandrach.github.io/) (⏳ ....en cours de construction)
+💻 Mon portfolio est disponible [ici](https://cassandrach.github.io/) (en cours de construction...⏳)
 
