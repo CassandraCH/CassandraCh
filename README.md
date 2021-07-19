@@ -2,4 +2,4 @@
 
 Me suivre sur [LinkedIn](https://www.linkedin.com/in/cassandrachaumulon/)
 
-Portfolio en cours de construction [ICI](https://cassandrachaumulon.herokuapp.com/)⏳
+Portfolio en cours de construction [ICI](https://cassandrach.github.io/)⏳
