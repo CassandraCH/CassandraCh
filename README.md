@@ -1,4 +1,4 @@
-![banniere](https://github.com/CassandraCH/CassandraCh/blob/e16ce6452695f8b4ca334070af0cd2657009a009/banniere_git.svg)
+#### Etudiante en 1ère année de Master Informatique et en alternance chez INFOTEL CONSEIL
 
 Me suivre sur [LinkedIn](https://www.linkedin.com/in/cassandrachaumulon/)
 
